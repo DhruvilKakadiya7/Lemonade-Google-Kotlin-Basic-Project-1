@@ -1,6 +1,11 @@
 Project: Lemonade App (Android Basics in Kotlin - Google)
 ==================================
 
+Intoduction
+-------------
+- This is my first practice project.
+- Starter code of this project is available here https://github.com/google-developer-training/android-basics-kotlin-lemonade-app.
+- You can download it and write base logic to run your app as they want and your project is ready.
 
 ScreenShots
 ------------
